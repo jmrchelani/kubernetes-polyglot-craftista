@@ -1,4 +1,4 @@
-# DevOps Implementation of Polyglot Microservices App
+# Kraftista - The Kubernetes + DevOps Implementation of Polyglot Microservices App Craftista
 
 ## 🔹 Architecture
 
